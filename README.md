@@ -2,9 +2,8 @@
 Memory Game with Additional Buttons (Khan Academy-Advanced JavaScript Course) 
 
 This is a memory game developed as a project on Khan Academy.  My modifications were the following:
-
-1.  Added two buttons: "Start Game" and "End Game" with associated methods.
-2.  Added an initializeGame function and Tile.prototype.handleMouseClick method.
+1.  Added two buttons: "Start Game" and "End Game" with associated methods.
+2.  Added an initializeGame function and Tile.prototype.handleMouseClick method.
 3.  Modified draw function to handle new functionality.
 
 Instructions:
