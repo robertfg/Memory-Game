@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title>Memory Game</title>
+	</head> 
+
+	<body>
+		<p align="center"> 
+		<canvas id="mycanvas"></canvas>
+	</body>
+
+	<script src="processing.min.js"></script>
+	<script src="myCode.js"></script>
+	<script type="application/javascript">
+		var canvas = document.getElementById("mycanvas");				// Get the canvas that processing.js will use
+		var processingInstance = new Processing(canvas, sketchProc);	// Pass the function sketchProc (defined in myCode.js) to Processing's constructor.
+	</script>
+
+</html>
