@@ -1,4 +1,4 @@
-# Memory-
+# Memory-Game
 Memory Game with Additional Buttons (Khan Academy-Advanced JavaScript Course) 
 
 This is a memory game developed as a project on Khan Academy.  My modifications were the following:
@@ -15,3 +15,4 @@ Rules:
 1.  Click "New Game" to start a new game.
 2.  Click tiles to match.
 3.  The program records your clicks and will display at the end, along with an option to quit or play again.
+
